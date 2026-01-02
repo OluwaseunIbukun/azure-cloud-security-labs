@@ -4,7 +4,7 @@
 Deploy and secure Linux and Windows virtual machines in Microsoft Azure, configure basic network security, and enable centralized logging.
 
 ## Resources Created
-- Resource Group: rg-week1-core
+- Created azure resource group named azure-week1-core
 - Linux VM: vm-linux-week1 (Ubuntu Server)
 - Windows VM: vm-win-week1 (Windows Server 2022)
 - Log Analytics Workspace: law-week1
